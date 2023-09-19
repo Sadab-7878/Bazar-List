@@ -1,6 +1,6 @@
 🛒 **Shopping List App** 📝
 
-Manage your shopping needs and tasks effortlessly with our React Native Shopping List App! 📱✨
+Manage your shopping needs and tasks effortlessly with our Shopping List App! 📱✨
 
 This app seamlessly combines your to-do list and shopping list, making it easier than ever to organize your day and shop smartly. 🙌🛍️
 
