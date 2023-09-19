@@ -1,4 +1,4 @@
-🛒 **React Native Shopping List App** 📝
+🛒 **Shopping List App** 📝
 
 Manage your shopping needs and tasks effortlessly with our React Native Shopping List App! 📱✨
 
